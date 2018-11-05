@@ -1,0 +1,15 @@
+VERSI�N PHP
+para entrar se ingresa con correo electronico y contrase�a
+
+|NOMBRE       |FECHA NACIMIENTO|CORREO	      |CONTRASE�A
+
+|Wilmar	      |1979/08/01      |wilyps1@yahoo.com  |123456
+
+|Miguel Yees  |2006/04/13      |Miguel@gmail.com|123456
+
+|Juan Camilo |2005/02/25      |heavymonster@gmail.com|123456
+
+
+|CORREO	      	 |CONTRASE�A
+
+|cjcs@dominio.com|123456
